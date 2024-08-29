@@ -1,0 +1,60 @@
+https://editor.p5js.org/melissa.bassani.marques/full/C_MVJ6qhC
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Os principais comandos para se criar um site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Os principais comandos para se criar um site</h1>
+    </header>
+    <main>
+        <section>
+            <h2>HTML: Estruturando a Página</h2>
+            <p>O HTML (HyperText Markup Language) é a linguagem básica usada para criar a estrutura de um site. Ele é composto por uma série de elementos que definem o conteúdo e a estrutura da página, como títulos, parágrafos, imagens, links, e muito mais.</p>
+          <h2> CSS: Estilizando a Página</h2>
+            <p>O CSS (Cascading Style Sheets) é usado para definir a aparência e o layout do seu site. Ele permite que você adicione cores, fontes, espaçamento, entre outros estilos aos elementos HTML, criando uma página visualmente atraente.</p>
+          <h2> Comandos (todos os comandos são usados entre < > e < / > )</h2>
+            <h4> head </h4> - Define o título, estilos, scripts e outras informações.
+  <p> <h4> body  </h4> - Define todas as informações visíves do site.
+<p>  <h4> p </h4> - Define o parágrafo.
+  <p> <h4>title </h4> - Define o título da página, exibido na aba do navegador.
+<p><h4> h1 </h4>- Título principal.
+  <p> <h4>h2 </h4>- Define o texto nível 2, são as partes subordinadas ao título principal.
+          <p><h4> h3 </h4>- Define o texto nível 3.
+ <p> <h4> h4 </h4>- Define o texto nível 4.
+   <p> <h4>h5 </h4>- Define o texto nível 5.
+  
+   <p> <h4>img src </h4>- Insere uma imagem na página.
+<p><h4> a </h4>- Define um hyperlink, um link clicável, com o atributo href especificando o destino.
+  <p> <h4>ol </h4>- Define uma lista ordenada, com itens são numerados automaticamente.
+
+<p> <h4>li </h4>- Define um item de lista dentro de uma lista.
+<p> <h4> color</h4> - Define a cor do texto.
+
+  <p><h4>background-color </h4> - Define a cor do fundo.
+    <p> <h4> font-size</h4> - Define o tamanho da fonte do texto.
+
+      <p> <h4> font-family</h4> - Especifica a família de fontes para o texto.
+<p> <h4> width</h4> - Define a largura.
+
+  <p> <h4>border </h4>- Define a borda, especificando a largura, estilo e cor.
+
+    <p> <h4>margin </h4>- Define a margem, limitando o espaço ao redor de um elemento.
+
+
+      <p> <h4>position</h4> - Define o método de posicionamento de um elemento, static, relative, absolute, fixed ou sticky.
+        <p> <h4> display </h4>- Especifica o tipo de caixa de renderização, como block, entre outros.
+
+        <p> <h4>height</h4> - Define a altura.
+
+
+          <p> <h4>padding</h4> - Define o preenchimento interno, controlando o espaço dentro de um elemento.
+
+            <p>
+            
+          
